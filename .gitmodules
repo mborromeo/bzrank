@@ -1,3 +1,6 @@
 [submodule "plugin"]
 	path = plugin
 	url = git@github.com:mborromeo/bzrank-plugin.git
+[submodule "feeder"]
+	path = feeder
+	url = git@github.com:mborromeo/bzrank-feeder.git
